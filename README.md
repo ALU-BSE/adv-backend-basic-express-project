@@ -3,7 +3,7 @@
 ## Week 4 - Session 1 - Express.js
 
 ## Objective
-In the previous activity, you created your first Express server and confirmed that it runs successfully in the browser.
+In the previous activity, you created your first Node server and confirmed that it runs successfully in the browser.
 
 In this activity, you will extend that server by adding additional routes, working with dynamic URL parameters, processing query values, handling POST requests, and implementing simple middleware.
 
@@ -22,7 +22,7 @@ These tasks represent core Express concepts such as routing, middleware, and req
 
 ## Step 1 — Start Your Existing Express Server
 
-1. Open the project folder you created in the previous activity.
+1. Open the project folder you created in the previous activity (Node.js activity).
 2. Ensure the folder contains your main server file (for example `index.js` or `server.js`).
 3. Start the server from the terminal using Node.
 4. Open your browser and visit your root route (`/`) to confirm the server still works.
